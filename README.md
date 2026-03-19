@@ -27,4 +27,11 @@ A curated list of free tools, APIs, and resources for developers.
 - [Coolors](https://coolors.co) - Color palette generator
 - [Heroicons](https://heroicons.com) - Free SVG icons
 
+## Learning
+- [The Odin Project](https://www.theodinproject.com) - Free full-stack curriculum
+- [CS50](https://cs50.harvard.edu) - Harvard's free intro to CS
+- [roadmap.sh](https://roadmap.sh) - Learning roadmaps for any tech role
+- [Exercism](https://exercism.org) - Coding exercises with mentorship
+- [Fireship](https://www.youtube.com/@Fireship) - Fast-paced dev content on YouTube
+
 Contributions welcome — open a PR!
